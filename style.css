@@ -7,6 +7,6 @@ box-sizing: border-box;
 
 .header p{
 color: blue;
-
+text-transform: uppercase;
 
 }
